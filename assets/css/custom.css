@@ -52,7 +52,7 @@ footer {
 /* Increase height value to provide more content about features */
 .col-fixed-height {
 	position: relative;
-	height: 350px;
+	height: 27em;
 	overflow: hidden;
 }
 
